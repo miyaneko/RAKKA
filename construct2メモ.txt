@@ -1,0 +1,40 @@
+■レイアウトのロード
+https://www.scirra.com/tutorials/683/sliding-animated-title-menu-items-into-and-out-of-layout
+
+■背景が常にスクロールする
+https://www.scirra.com/tutorials/309/create-continuously-scrolling-tiled-backgrounds-textures/page-3
+
+■8方向のキャラモーションの　スプライト画像の設定方法
+https://www.scirra.com/tutorials/413/direction-based-sprite-animation
+
+■タッチでのキャラクター操作
+https://www.scirra.com/tutorials/202/touch-controls-and-a-trick-to-detect-input-method
+
+■カスタムローディングバー
+https://www.scirra.com/tutorials/316/how-to-create-a-custom-loading-bar-for-your-game
+
+■複数の画面サイズのサポート
+https://www.scirra.com/tutorials/73/supporting-multiple-screen-sizes/page-1
+
+■iosWEBアプリ出力（アップルストアにはネイティブアプリとしてはだせない）
+https://www.scirra.com/tutorials/43/making-an-ios-web-app-with-construct-2
+↑このページの最下部にネイティブアプリとしての出力方法も記載されている
+
+■開発時のタッチ操作をキーボードで補う方法（イベントはタッチ操作としてつくったままでOK　　のはず）
+https://www.scirra.com/tutorials/202/touch-controls-and-a-trick-to-detect-input-method
+
+■ローカルネットワーク上で実機をもちいてプレビューする方法（LANをつかう）
+https://www.scirra.com/tutorials/247/how-to-preview-on-a-local-network
+
+■ライト
+https://www.scirra.com/tutorials/793/the-land-of-light-and-shadows-part-2
+
+画面
+ios　ｗ640　×　h1136
+
+遷移
+タイトル画面→ゲーム画面
+
+
+参考になりそうなゲーム背景
+スチームワールド　ディグ
